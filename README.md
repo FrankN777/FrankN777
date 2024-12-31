@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Cybersecurity/penetration testing, Kali and blackarch linux
 - 🌱 I’m currently learning ...C++
 - 💞️ I’m looking to collaborate on ...a secure browser
-- 📫 How to reach me ...FrankN777@proton.me
+- 📫 How to reach me FrankN777@proton.me
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...I play Rock and Roll
 
